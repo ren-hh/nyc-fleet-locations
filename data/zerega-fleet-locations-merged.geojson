@@ -1,0 +1,1790 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84314801,40.83327169 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Citicare Ambulette Services + D & J Ambulette Services",
+    "fleet_type":"Commercial",
+    "address":"1200 Zerega Ave, The Bronx, NY 10462",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":120,
+    "estimated_demand_mva":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84463051,40.83116108 ]
+    },
+    "properties": {
+    "type":"NYCDOE / IBZ",
+    "name":"Reliant Transportation, Inc.",
+    "fleet_type":"School bus",
+    "address":"1101 Zerega Ave, The Bronx, NY 10462",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":180,
+    "estimated_demand_mva":1.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84296733,40.82292878 ]
+    },
+    "properties": {
+    "type":"NYCDOE / IBZ",
+    "name":"Pioneer Transportation Corp",
+    "fleet_type":"School bus",
+    "address":"751 Zerega Ave, The Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":165,
+    "estimated_demand_mva":2.76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84423547,40.8165085 ]
+    },
+    "properties": {
+    "type":"NYCDOE / IBZ",
+    "name":"Little Richie Bus Service + Logan Bus Company Inc. + Bobby's Bus Co. Inc.",
+    "fleet_type":"School bus",
+    "address":"432 Zerega Ave, The Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":120,
+    "estimated_demand_mva":1.76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84065438,40.85528834 ]
+    },
+    "properties": {
+    "type":"NYCDOE",
+    "name":"Little Richie Bus Service + Logan Bus Company Inc. + Bobby's Bus Co. Inc.",
+    "fleet_type":"School bus",
+    "address":"1616 Stillwell Ave, The Bronx, NY 10461",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":20,
+    "estimated_demand_mva":0.38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8413936,40.82144024 ]
+    },
+    "properties": {
+    "type":"NYCDOE / IBZ",
+    "name":"BORO TRANSIT, INC.",
+    "fleet_type":"School bus",
+    "address":"691 Zerega Ave, The Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":284,
+    "estimated_demand_mva":4.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.87973315,40.83474936 ]
+    },
+    "properties": {
+    "type":"NYCDOE",
+    "name":"FIRST STEPS TRANSP INC. (B2192)",
+    "fleet_type":"School bus",
+    "address":"E 174 St, Bronx River Ave, The Bronx, NY 10472",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":140,
+    "estimated_demand_mva":1.17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84067472,40.83796288 ]
+    },
+    "properties": {
+    "type":"NYCDOE / IBZ",
+    "name":"G.V.C. LTD. (B2192)",
+    "fleet_type":"School bus",
+    "address":"1392 Commerce Ave, Bronx, NY 10461",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":340,
+    "estimated_demand_mva":2.83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.88159522,40.8225774 ]
+    },
+    "properties": {
+    "type":"NYCDOE",
+    "name":"DON THOMAS BUSES, INC. (B2321)",
+    "fleet_type":"School bus",
+    "address":"960 Close Ave, Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":80,
+    "estimated_demand_mva":0.67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.88114088,40.82246531 ]
+    },
+    "properties": {
+    "type":"NYCDOE",
+    "name":"THOMAS BUSES, INC. (B2321)",
+    "fleet_type":"School bus",
+    "address":"960 Close Ave, The Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":45,
+    "estimated_demand_mva":0.84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84224144,40.82540462 ]
+    },
+    "properties": {
+    "type":"DSNY / IBZ",
+    "name":"DSNY Bronx 9 & 10",
+    "fleet_type":"Sanitation",
+    "address":"850 Zerega Ave, Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":84,
+    "estimated_demand_mva":4.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84238862,40.82463974 ]
+    },
+    "properties": {
+    "type":"DSNY / IBZ",
+    "name":"DSNY Bronx 11",
+    "fleet_type":"Sanitation",
+    "address":"800 Zerega Ave, Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":42,
+    "estimated_demand_mva":2.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84426802,40.82532334 ]
+    },
+    "properties": {
+    "type":"NYCDOE / IBZ",
+    "name":"Consolidated Bus Transit",
+    "fleet_type":"School bus",
+    "address":"2350 Hermany Ave, Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":300,
+    "estimated_demand_mva":5.63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84324996,40.81755631 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Verizon",
+    "fleet_type":"Commercial",
+    "address":"500 Zerega Ave, Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":147,
+    "estimated_demand_mva":1.23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84268477,40.81835579 ]
+    },
+    "properties": {
+    "type":"DSNY / IBZ",
+    "name":"DSNY Parking Lot",
+    "fleet_type":"Sanitation",
+    "address":"400 Zerega Ave, Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":100,
+    "estimated_demand_mva":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84300417,40.82060608 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"FedEx Ground",
+    "fleet_type":"Commercial",
+    "address":"635 Zerega Ave, Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":140,
+    "estimated_demand_mva":2.42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8371689,40.81657548 ]
+    },
+    "properties": {
+    "type":"NYCDOE / IBZ",
+    "name":"Total Transportation Corp.",
+    "fleet_type":"School bus",
+    "address":"525 Hutchinson River Pkwy, Bronx, NY 10465",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":45,
+    "estimated_demand_mva":0.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.83796287,40.81789822 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Cablevision",
+    "fleet_type":"Commercial",
+    "address":"550 Brush Ave, Bronx, NY 10465",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":80,
+    "estimated_demand_mva":0.67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.83872096,40.81855673 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"UPS",
+    "fleet_type":"Commercial",
+    "address":"545 Brush Ave, Bronx, NY 10465",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":85,
+    "estimated_demand_mva":3.83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.83159106,40.86590752 ]
+    },
+    "properties": {
+    "type":"MTA",
+    "name":"Gun Hill Depot",
+    "fleet_type":"Other govt-owned",
+    "address":"1910 Bartow Ave, The Bronx, NY 10469",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":278,
+    "estimated_demand_mva":4.63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84140952,40.82293995 ]
+    },
+    "properties": {
+    "type":"MTA / IBZ",
+    "name":"Zerega Bus Maintenance and Training Facility",
+    "fleet_type":"Other govt-owned",
+    "address":"750 Zerega Ave, Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":60,
+    "estimated_demand_mva":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.87590664,40.82318269 ]
+    },
+    "properties": {
+    "type":"CONED",
+    "name":"Office - 1560 Bruckner",
+    "fleet_type":"Commercial",
+    "address":"1560 Bruckner Blvd, Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":null,
+    "estimated_demand_mva":3.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.87745243,40.83961682 ]
+    },
+    "properties": {
+    "type":"USPS",
+    "name":"USPS",
+    "fleet_type":"Other govt-owned",
+    "address":"362 Devoe Ave, Bronx, NY 10460",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":15,
+    "estimated_demand_mva":0.13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.85742924,40.82166462 ]
+    },
+    "properties": {
+    "type":"USPS",
+    "name":"USPS",
+    "fleet_type":"Other govt-owned",
+    "address":"1950 Lafayette Ave, Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":50,
+    "estimated_demand_mva":0.42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.87146731,40.82945943 ]
+    },
+    "properties": {
+    "type":"USPS",
+    "name":"USPS",
+    "fleet_type":"Other govt-owned",
+    "address":"1687 Gleason Ave, Bronx, NY 10472",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":10,
+    "estimated_demand_mva":0.08
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.86207587,40.83706147 ]
+    },
+    "properties": {
+    "type":"USPS",
+    "name":"USPS",
+    "fleet_type":"Other govt-owned",
+    "address":"1449 West Ave, Bronx, NY 10462",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":10,
+    "estimated_demand_mva":0.08
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84330643,40.84245149 ]
+    },
+    "properties": {
+    "type":"USPS",
+    "name":"USPS",
+    "fleet_type":"Other govt-owned",
+    "address":"2619 Ponton Ave, Bronx, NY 10461",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":15,
+    "estimated_demand_mva":0.13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.82407632,40.82784213 ]
+    },
+    "properties": {
+    "type":"USPS",
+    "name":"USPS",
+    "fleet_type":"Other govt-owned",
+    "address":"3630 E Tremont Ave, Bronx, NY 10465",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":15,
+    "estimated_demand_mva":0.13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.86974833,40.82309914 ]
+    },
+    "properties": {
+    "type":"NYPD",
+    "name":"43rd Precinct",
+    "fleet_type":"Police",
+    "address":"900 Fteley Ave, Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":110,
+    "estimated_demand_mva":0.69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.82730227,40.83088229 ]
+    },
+    "properties": {
+    "type":"NYPD",
+    "name":"45th Precinct",
+    "fleet_type":"Police",
+    "address":"2877 Barkley Ave, Bronx, NY 10465",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":70,
+    "estimated_demand_mva":0.44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84486321,40.82209194 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"SeniorCare EMS",
+    "fleet_type":"Commercial",
+    "address":"700 Havemeyer Ave, Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":60,
+    "estimated_demand_mva":0.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84305399,40.82740234 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"NYCEPA",
+    "fleet_type":"Other govt-owned",
+    "address":"930 Zerega Ave, Bronx, NY 10473",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":30,
+    "estimated_demand_mva":0.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84080468,40.82670916 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"GVC II",
+    "fleet_type":"Commercial",
+    "address":"911 Brush Ave, Bronx, NY 10465",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":190,
+    "estimated_demand_mva":1.58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.83925829,40.82404188 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Hellman Electric",
+    "fleet_type":"Commercial",
+    "address":"855 Brush Ave, Bronx, NY 10465",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":86,
+    "estimated_demand_mva":0.72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8389038,40.82350937 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Grocery Haulers Incorporates",
+    "fleet_type":"Commercial",
+    "address":"731 Brush Ave, Bronx, NY 10465",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":105,
+    "estimated_demand_mva":1.21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.83847524,40.8227728 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"H.O. Penn Machinery Sales & Rentals",
+    "fleet_type":"Commercial",
+    "address":"699 Brush Ave, Bronx, NY 10465",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":100,
+    "estimated_demand_mva":0.83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.83734941,40.81948183 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Buhre Beverage Distributing",
+    "fleet_type":"Commercial",
+    "address":"650 Brush Ave, Bronx, NY 10465",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":45,
+    "estimated_demand_mva":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.84198038,40.83250722 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"W.B. Mason",
+    "fleet_type":"Commercial",
+    "address":"1160 Commerce Ave, Bronx, NY 10462",
+    "borough":"Bronx",
+    "subnetwork":"Southeast Bronx",
+    "fleet_size":10,
+    "estimated_demand_mva":0.17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.88547416,40.67712963 ]
+    },
+    "properties": {
+    "type":"CONED",
+    "name":"Office - 2950 Atlantic",
+    "fleet_type":"Commercial",
+    "address":"2950 Atlantic Ave, Brooklyn, NY 11207",
+    "borough":"Brooklyn",
+    "subnetwork":"Richmond Hill",
+    "fleet_size":null,
+    "estimated_demand_mva":1.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"NYCEPA - Queens Repair and Sewage Maintenance",
+    "fleet_type":"Other govt-owned",
+    "address":"106-36 180th St, Jamaica, NY 11433",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":31,
+    "estimated_demand_mva":0.26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77735248,40.70152187 ]
+    },
+    "properties": {
+    "type":"NYCDOE / IBZ",
+    "name":"MV. Transportation",
+    "fleet_type":"School bus",
+    "address":"107-10 180th St, Jamaica, NY 11433",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":199,
+    "estimated_demand_mva":3.16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77648099,40.70086329 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"The Moving Doctor",
+    "fleet_type":"Commercial",
+    "address":"108-20 180th St, Queens, NY 11433",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":8,
+    "estimated_demand_mva":0.13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77579454,40.70113963 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"ReadyRefresh",
+    "fleet_type":"Commercial",
+    "address":"10910 180th St, Queens, NY 11433",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":27,
+    "estimated_demand_mva":0.45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77582721,40.7051625 ]
+    },
+    "properties": {
+    "type":"NYPD / IBZ",
+    "name":"NYPD Facility/Holban Yard LIRR",
+    "fleet_type":"Police",
+    "address":"",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":29,
+    "estimated_demand_mva":0.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Wholesale Facilities",
+    "fleet_type":"Commercial",
+    "address":"182-30 Liberty Ave, Queens, NY 11433",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":13,
+    "estimated_demand_mva":0.17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77768825,40.70550386 ]
+    },
+    "properties": {
+    "type":"USPS / IBZ",
+    "name":"USPS Vehicle Maintenance Facility",
+    "fleet_type":"Other govt-owned",
+    "address":"180-66 Liberty Ave, Queens, NY 11433",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":48,
+    "estimated_demand_mva":0.44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.76914313,40.70859133 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Verizon",
+    "fleet_type":"Commercial",
+    "address":"99-20 189th St, Queens, NY 11423",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":60,
+    "estimated_demand_mva":0.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78512924,40.70527662 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"American Recyling Mgmt. LLC.",
+    "fleet_type":"Commercial",
+    "address":"172-33 Douglas Ave, Jamaica, NY 11433",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":10,
+    "estimated_demand_mva":0.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.79028963,40.70362473 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Royal Waste Services, Inc.",
+    "fleet_type":"Commercial",
+    "address":"16848 Douglas Ave, Queens, NY 11433",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":71,
+    "estimated_demand_mva":2.65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78906925,40.7043349 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"U-Haul Moving & Storage of Jamaica",
+    "fleet_type":"Commercial",
+    "address":"168-11 Douglas Ave, Queens, NY 11433",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":74,
+    "estimated_demand_mva":0.62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78990166,40.69993357 ]
+    },
+    "properties": {
+    "type":"MTA / IBZ",
+    "name":"NYC Transit Jamaica Depot",
+    "fleet_type":"Other govt-owned",
+    "address":"165-18 Tuskegee Airmen Way, Jamaica, NY 11433",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":80,
+    "estimated_demand_mva":1.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.79284549,40.70331047 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Dumpsters",
+    "fleet_type":"Commercial",
+    "address":"92-91 165th St, Jamaica, NY 11433",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":8,
+    "estimated_demand_mva":0.27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.79954102,40.69781349 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Elmhurst Dairy Complex",
+    "fleet_type":"Commercial",
+    "address":"155-04 Liberty Ave, Jamaica, NY 11433",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":38,
+    "estimated_demand_mva":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Cinelli Carting Co. Inc",
+    "fleet_type":"Commercial",
+    "address":"150-11 Guinzburg Rd, Queens, NY 11433",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":13,
+    "estimated_demand_mva":0.22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.802021,40.6961924 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Waste services",
+    "fleet_type":"Commercial",
+    "address":"",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":7,
+    "estimated_demand_mva":0.12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.80312382,40.69642074 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"City Transit Mix Inc.",
+    "fleet_type":"Commercial",
+    "address":"10414 148th St, Jamaica, NY 11435",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":10,
+    "estimated_demand_mva":0.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.81656564,40.69670947 ]
+    },
+    "properties": {
+    "type":"DSNY / IBZ",
+    "name":"DSNY Queens 9",
+    "fleet_type":"Sanitation",
+    "address":"13205 Atlantic Ave, Jamaica, NY 11418",
+    "borough":"Queens",
+    "subnetwork":"Richmond Hill",
+    "fleet_size":42,
+    "estimated_demand_mva":2.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.82529463,40.69585067 ]
+    },
+    "properties": {
+    "type":"MTA / IBZ",
+    "name":"LIRR Morris Park",
+    "fleet_type":"Other govt-owned",
+    "address":"91-53 121st St, Richmond Hill, NY 11418",
+    "borough":"Queens",
+    "subnetwork":"Richmond Hill",
+    "fleet_size":18,
+    "estimated_demand_mva":0.24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.82895912,40.69821688 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"New York Plumbing, Heating & Cooling Corp.",
+    "fleet_type":"Commercial",
+    "address":"87-71 Lefferts Blvd, Queens, NY 11418",
+    "borough":"Queens",
+    "subnetwork":"Richmond Hill",
+    "fleet_size":30,
+    "estimated_demand_mva":0.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.82940852,40.69892789 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Key Foods Supermarket ",
+    "fleet_type":"Commercial",
+    "address":"87-25 Lefferts Blvd, Queens, NY 11418",
+    "borough":"Queens",
+    "subnetwork":"Richmond Hill",
+    "fleet_size":19,
+    "estimated_demand_mva":0.32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8176796,40.69841497 ]
+    },
+    "properties": {
+    "type":"FDNY / IBZ",
+    "name":"FDNY Facility",
+    "fleet_type":"Other govt-owned",
+    "address":"131-99 92nd Ave, Queens, NY 11418",
+    "borough":"Queens",
+    "subnetwork":"Richmond Hill",
+    "fleet_size":8,
+    "estimated_demand_mva":0.07
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78446608,40.68859627 ]
+    },
+    "properties": {
+    "type":"MTA",
+    "name":"Baisley Park Depot",
+    "fleet_type":"Other govt-owned",
+    "address":"114-15 Guy R Brewer Blvd, Rochdale, NY 11434",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":250,
+    "estimated_demand_mva":4.17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.79542458,40.70750649 ]
+    },
+    "properties": {
+    "type":"MTA",
+    "name":"Jamaica Bus Terminal",
+    "fleet_type":"Other govt-owned",
+    "address":"89-98 Merrick Blvd, Jamaica, NY 11432",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":40,
+    "estimated_demand_mva":0.67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.72975734,40.71731708 ]
+    },
+    "properties": {
+    "type":"MTA",
+    "name":"Queens Village Depot",
+    "fleet_type":"Other govt-owned",
+    "address":"97-11 222nd St, Queens, NY 11429",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":270,
+    "estimated_demand_mva":4.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78439468,40.6647552 ]
+    },
+    "properties": {
+    "type":"DSNY / IBZ",
+    "name":"DSNY Queens 13J",
+    "fleet_type":"Sanitation",
+    "address":"15367 146th Ave, Queens, NY 11434",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":84,
+    "estimated_demand_mva":4.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7739099,40.66138832 ]
+    },
+    "properties": {
+    "type":"MTA / IBZ",
+    "name":"JFK Depot",
+    "fleet_type":"Other govt-owned",
+    "address":"165-25 147th Ave, Queens, NY 11434",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":205,
+    "estimated_demand_mva":3.42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78285214,40.6648832 ]
+    },
+    "properties": {
+    "type":"NYCDOE / IBZ",
+    "name":"Logan Transportation Systems",
+    "fleet_type":"School bus",
+    "address":"145-40 155th St, Queens, NY 11434",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":258,
+    "estimated_demand_mva":3.07
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78196702,40.66474453 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Prime Transport + others",
+    "fleet_type":"Commercial",
+    "address":"14530 156th St, Queens, NY 11434",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":52,
+    "estimated_demand_mva":1.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77051377,40.65940984 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Capital Express International Inc.",
+    "fleet_type":"Commercial",
+    "address":"14739 175th St #212, Jamaica, NY 11434",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":42,
+    "estimated_demand_mva":0.84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8097312,40.66487685 ]
+    },
+    "properties": {
+    "type":"DSNY / IBZ",
+    "name":"DSNY Queens 10",
+    "fleet_type":"Sanitation",
+    "address":"130-23 150th Ave, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Richmond Hill",
+    "fleet_size":42,
+    "estimated_demand_mva":2.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.80919126,40.66478493 ]
+    },
+    "properties": {
+    "type":"DSNY / IBZ",
+    "name":"DSNY Queens 12",
+    "fleet_type":"Sanitation",
+    "address":"130-23 150th Ave, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Richmond Hill",
+    "fleet_size":42,
+    "estimated_demand_mva":2.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.80802259,40.66594493 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"DO & CO New York Catering, Inc.",
+    "fleet_type":"Commercial",
+    "address":"14932 132nd St, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Richmond Hill",
+    "fleet_size":12,
+    "estimated_demand_mva":0.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.76826526,40.65994925 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Verizon",
+    "fleet_type":"Commercial",
+    "address":"14702 Guy R Brewer Blvd, Queens, NY 11434",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":26,
+    "estimated_demand_mva":0.22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.76592271,40.6583145 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"UPS Building",
+    "fleet_type":"Commercial",
+    "address":"183-184 149th Ave, Queens, NY 11413",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":18,
+    "estimated_demand_mva":0.44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.76544311,40.65920564 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Seko Worldwide",
+    "fleet_type":"Commercial",
+    "address":"18454 149th Ave, Springfield Gardens, NY 11413",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":99,
+    "estimated_demand_mva":1.72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7622694,40.65724615 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"UPS Supply Chain Solution + J & J International",
+    "fleet_type":"Commercial",
+    "address":"184-54, 149th Ave, Springfield Gardens, NY 11413",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":138,
+    "estimated_demand_mva":4.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.76913628,40.65380371 ]
+    },
+    "properties": {
+    "type":"USPS / IBZ",
+    "name":"USPS",
+    "fleet_type":"Other govt-owned",
+    "address":"250 N Boundary Rd, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":130,
+    "estimated_demand_mva":4.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.76562469,40.65375126 ]
+    },
+    "properties": {
+    "type":"NYCDOE / IBZ",
+    "name":"School bus parking lot - several companies",
+    "fleet_type":"School bus",
+    "address":"181-25 Eastern Rd, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":520,
+    "estimated_demand_mva":9.75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77152861,40.65548406 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Snowlift",
+    "fleet_type":"Commercial",
+    "address":"17501 Rockaway Blvd, Jamaica, NY 11434",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":120,
+    "estimated_demand_mva":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"TNT Express",
+    "fleet_type":"Commercial",
+    "address":"250 N Boundary Rd, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":20,
+    "estimated_demand_mva":0.67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77435854,40.65745065 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Building 78B",
+    "fleet_type":"Commercial",
+    "address":"78 N Boundary Rd, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":23,
+    "estimated_demand_mva":0.77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77585503,40.6583636 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Building 79",
+    "fleet_type":"Commercial",
+    "address":"79 N Boundary Rd, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":26,
+    "estimated_demand_mva":0.87
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77782155,40.65891406 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Building 76",
+    "fleet_type":"Commercial",
+    "address":"JFK Int‘l Airport, 76 Cargo Bldg., Jamaica, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":26,
+    "estimated_demand_mva":0.87
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78008147,40.65570807 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"MSN Air Service",
+    "fleet_type":"Commercial",
+    "address":"John F. Kennedy International Airport, 263B N Hangar Road Cargo Area D, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":40,
+    "estimated_demand_mva":1.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77504072,40.65387323 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Cargo Airport Services USA",
+    "fleet_type":"Commercial",
+    "address":"71 Old Rockaway Blvd, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":30,
+    "estimated_demand_mva":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78265603,40.66075962 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"FedEx Ship Center",
+    "fleet_type":"Commercial",
+    "address":"6 N Boundary Rd, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":236,
+    "estimated_demand_mva":5.78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77907322,40.65973939 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"JFK Cargo Building 75",
+    "fleet_type":"Commercial",
+    "address":"John F. Kennedy International Airport, JFK Cargo Building 75, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":36,
+    "estimated_demand_mva":1.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.79428686,40.66337073 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"DHL Global Forwarding",
+    "fleet_type":"Commercial",
+    "address":"Building 89 JFK International Airport Area, Cargo Service Rd, Jamaica, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":78,
+    "estimated_demand_mva":2.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.79555218,40.66246233 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"DelEx Inc + Bradford Airport Logistics",
+    "fleet_type":"Commercial",
+    "address":"87 Cargo Plaza # 87, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":80,
+    "estimated_demand_mva":2.67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.75583164,40.65135125 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"JFK Logistics Center",
+    "fleet_type":"Commercial",
+    "address":"230-59 Rockaway Blvd, Queens, NY 11413",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":169,
+    "estimated_demand_mva":5.63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8017479,40.64953763 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"JFK Cargo building 23 Cargo area B",
+    "fleet_type":"Commercial",
+    "address":"John F. Kennedy International Airport, N Service Rd, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":87,
+    "estimated_demand_mva":2.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8041704,40.65262211 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Cargo Area B, 9 N Service Rd, Jamaica, NY 11430",
+    "fleet_type":"Commercial",
+    "address":"9 N Service Rd, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":108,
+    "estimated_demand_mva":2.36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Virgin Atlantic Cargo",
+    "fleet_type":"Commercial",
+    "address":"Cargo Plaza Building 21, Jamaica, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":36,
+    "estimated_demand_mva":1.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8096894,40.65858342 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"JFK Building 141",
+    "fleet_type":"Other govt-owned",
+    "address":"141 Federal Cir, Jamaica, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":150,
+    "estimated_demand_mva":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.81183372,40.65851428 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Flying Food Group",
+    "fleet_type":"Commercial",
+    "address":"146, John F. Kennedy Airport, Jamaica, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":46,
+    "estimated_demand_mva":0.77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8116696,40.65973142 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"JFK Building 142",
+    "fleet_type":"Other govt-owned",
+    "address":"142 130th Pl, Jamaica, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":65,
+    "estimated_demand_mva":0.54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"LSG Sky Chefs Inc.",
+    "fleet_type":"Commercial",
+    "address":"Building 143, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":12,
+    "estimated_demand_mva":0.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7998563,40.65859214 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Worldwide Flight Services",
+    "fleet_type":"Commercial",
+    "address":"Building 66, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":30,
+    "estimated_demand_mva":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.79560065,40.65859413 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"MSN Air Service",
+    "fleet_type":"Commercial",
+    "address":"John F. Kennedy International Airport, 86 Cargo Plaza Road Cargo Area C, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":22,
+    "estimated_demand_mva":0.73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.79574267,40.65636286 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"JFK Cargo Building 84",
+    "fleet_type":"Commercial",
+    "address":"84 S Cargo Rd, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":39,
+    "estimated_demand_mva":1.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.79584326,40.65414895 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"JFK Cargo Building 83",
+    "fleet_type":"Commercial",
+    "address":"83 S Cargo Rd, Queens, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":39,
+    "estimated_demand_mva":1.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.81747297,40.65512833 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Aero Snow Removal Corp.",
+    "fleet_type":"Commercial",
+    "address":"West Hanger Road Jfk Intl Airport, Jamaica, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":85,
+    "estimated_demand_mva":0.71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.81597922,40.65701309 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"LSG Sky Chefs Building 139",
+    "fleet_type":"Commercial",
+    "address":"JFK International Airport, W Hangar Rd Bldg. 139, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":85,
+    "estimated_demand_mva":1.42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.80742469,40.66027232 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"Building180",
+    "fleet_type":"Commercial",
+    "address":"Interstate 678, Van Wyck Expy, 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":20,
+    "estimated_demand_mva":0.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8062487,40.66326335 ]
+    },
+    "properties": {
+    "type":"IBZ",
+    "name":"JFK Bldg 111",
+    "fleet_type":"Other govt-owned",
+    "address":"154-20-154-42 134th St, Jamaica, NY 11430",
+    "borough":"Queens",
+    "subnetwork":"Jamaica",
+    "fleet_size":30,
+    "estimated_demand_mva":0.25
+    }
+  }
+]
+}
